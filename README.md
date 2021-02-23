@@ -42,9 +42,7 @@ Seu desafio é criar uma tela de Dashboard com neumorfismo e modo noturno! O mod
 
 # Biblioteca
 
-## Documentação Chart.Js (Biblioteca de gráficos)
-
-<a href="https://www.chartjs.org/docs/latest/charts/doughnut.html">Chart.Js</a>
+Documentação Chart.Js (Biblioteca de gráficos): <a href="https://www.chartjs.org/docs/latest/charts/doughnut.html">Chart.Js</a>
 
 ## Cores
 
