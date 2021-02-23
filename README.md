@@ -71,7 +71,7 @@ Para os ícones, recomendamos que utilize alguma biblioteca, como o Font Awesome
 ## Fonte
 - Poppins
 
-## Modelo
+## Layout
 O modelo final desktop e mobile está disponível na pasta `./design`<br>
 
 <p align="center">
