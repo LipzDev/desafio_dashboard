@@ -65,10 +65,10 @@ Dark theme:
 - #2a2c36
 - #202633
 
-# Icones
+## Icones
 Para os ícones, recomendamos que utilize alguma biblioteca, como o Font Awesome
 
-# Fonte
+## Fonte
 - Poppins
 
 ## Modelo:
