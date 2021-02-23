@@ -20,7 +20,7 @@
   * [Layout](#layout)
   * [Biblioteca](#biblioteca)
   * [Icones](#icones)
-  * [Tipo de fonte](#tipo-de-fonte)
+  * [Tipo de fonte](#fonte)
 * [Compartilhe](#compartilhe)
 
 # Devchallenge
@@ -77,8 +77,6 @@ O modelo final desktop está disponível na pasta `./design`<br>
 Para os ícones, recomendamos que utilize alguma biblioteca, como o Font Awesome
 
 # Fonte
-
-## Tipo de fonte:
 - Poppins
 
 # Compartilhe!
