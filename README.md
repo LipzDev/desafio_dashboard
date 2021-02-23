@@ -23,28 +23,29 @@
   * [Tipo de fonte](#fonte)
 * [Compartilhe](#compartilhe)
 
-# Devchallenge
+# Devchallenge:
 <a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
 
-# Desafio
+# Desafio:
 Seu desafio é criar uma tela de Dashboard com neumorfismo e modo noturno! O modelo final está disponível na pasta "design"
 
-## Requisitos:
+## Requisitos
 - A pagina precisa ter os gráficos que serão disponibilizados através da biblioteca Chart.js e faz parte do seu desafio descobrir como utilizar esta linda biblioteca!<br>
 - A página precisa ser feita com o uso de flexbox ou css grid layout<br>
 - A página precisa ter a versão dark theme<br>
 
-# Tecnologias: 
+# Tecnologias:
 - HTML
 - CSS
 - SASS (Opcional)
 - JAVASCRIPT (Básico)
 
-# Biblioteca
+# Biblioteca:
 
 Documentação Chart.Js (Biblioteca de gráficos): <a href="https://www.chartjs.org/docs/latest/charts/doughnut.html">Chart.Js</a>
 
-# Dicas
+# Dicas:
+
 ## Cores
 
 Light theme:
@@ -77,13 +78,13 @@ O modelo final desktop e mobile está disponível na pasta `./design`<br>
     <img src="./.github/layout.png" alt="Layout" width="1000">
 </p>
 
-## Compartilhe!
+## Compartilhe:
 Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
 Faça um print, gif ou vídeo e compartilhe o resultado com a #devchallenge ou marcando nosso perfil @devchallenge!<br>
 
 Desafio criado por  <a href="https://www.linkedin.com/in/LipzDev">Filipe Gomes</a> :)
 
-## Comunidade DevChallenge
+## Comunidade DevChallenge:
 Site: https://www.devchallenge.com.br/ <br>
 Discord: https://discord.gg/yvYXhGj <br>
 Linkedin: https://www.linkedin.com/company/devchallenge/<br>
