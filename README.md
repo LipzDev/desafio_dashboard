@@ -41,7 +41,7 @@ Seu desafio é criar uma tela de Dashboard com neumorfismo e modo noturno! O mod
 - SASS (Opcional)
 - JAVASCRIPT (Básico)
 
-# Dicas
+# Biblioteca
 
 ## Documentação Chart.Js (Biblioteca de gráficos):
 
@@ -75,6 +75,8 @@ O modelo final desktop está disponível na pasta `./design`<br>
 
 ## Icones
 Para os ícones, recomendamos que utilize alguma biblioteca, como o Font Awesome
+
+# Fonte
 
 ## Tipo de fonte:
 - Poppins
