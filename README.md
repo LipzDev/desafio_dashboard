@@ -72,7 +72,7 @@ Para os ícones, recomendamos que utilize alguma biblioteca, como o Font Awesome
 - Poppins
 
 ## Modelo
-O modelo final desktop está disponível na pasta `./design`<br>
+O modelo final desktop e mobile está disponível na pasta `./design`<br>
 
 <p align="center">
     <img src="./.github/layout.png" alt="Layout" width="1000">
