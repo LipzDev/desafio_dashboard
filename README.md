@@ -34,7 +34,6 @@ Seu desafio é criar uma tela de Dashboard com neumorfismo e modo noturno! O mod
 - A página precisa ser feita com o uso de flexbox ou css grid layout<br>
 - A página precisa ter a versão dark theme<br>
 
-
 # Tecnologias: 
 - HTML
 - CSS
@@ -66,18 +65,18 @@ Dark theme:
 - #2a2c36
 - #202633
 
+# Icones
+Para os ícones, recomendamos que utilize alguma biblioteca, como o Font Awesome
+
+# Fonte
+- Poppins
+
 ## Modelo:
 O modelo final desktop está disponível na pasta `./design`<br>
 
 <p align="center">
     <img src="./.github/layout.png" alt="Layout" width="1000">
 </p>
-
-## Icones
-Para os ícones, recomendamos que utilize alguma biblioteca, como o Font Awesome
-
-# Fonte
-- Poppins
 
 # Compartilhe!
 Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
