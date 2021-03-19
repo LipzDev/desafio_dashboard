@@ -27,7 +27,8 @@
 <a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
 
 # Desafio:
-Seu desafio é criar uma tela de Dashboard com neumorfismo e modo noturno! O modelo final está disponível na pasta "design"
+Seu desafio é criar uma tela de Dashboard com neumorfismo e modo noturno! O modelo final está disponível na pasta "design".<br>
+Aqui segue o [Link para demonstração do projeto](https://lipzdev.github.io/Dashboard/#), o responsivo ainda esta precisando de alguns ajustes!
 
 ## Requisitos
 - A pagina precisa ter os gráficos que serão disponibilizados através da biblioteca Chart.js e faz parte do seu desafio descobrir como utilizar esta linda biblioteca!<br>
